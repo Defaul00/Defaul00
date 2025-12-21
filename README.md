@@ -1,2 +1,2 @@
-# Adam
-My Github Profile
+
+![Adam]{img/github-header-banner.png}
