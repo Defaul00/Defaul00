@@ -4,7 +4,7 @@
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,python,c,mysql,laravel,bootstrap,figma&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,python,c,mysql,laravel,bootstrap,figma&perline=5)](https://skillicons.dev)
 
 #### Social media
 
