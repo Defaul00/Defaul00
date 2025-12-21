@@ -1,2 +1,2 @@
 
-![Adam]{img/github-header-banner.png}
+![Adam](img/github-header-banner.png)
